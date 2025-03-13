@@ -1,3 +1,5 @@
+package lesson1;
+
 public class TextFile {
   // add new comment
   public static void main(String[] args) {
