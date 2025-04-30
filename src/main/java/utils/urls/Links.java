@@ -9,7 +9,8 @@ public enum Links {
     DRAG_AND_DROP_PAGE("https://www.signesduquotidien.org/"),
     ANDERSEN("https://andersenlab.com/"),
     DOUBLE_AND_CONTEXT("https://demo.guru99.com/test/simple_context_menu.html"),
-    IFRAME_PAGE("https://www.w3schools.com/html/tryit.asp?filename=tryhtml_iframe_height_width");
+    IFRAME_PAGE("https://www.w3schools.com/html/tryit.asp?filename=tryhtml_iframe_height_width"),
+    SELECT_PAGE("https://testautomationpractice.blogspot.com/");
     private String link;
 
     public String getLink() {
